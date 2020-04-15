@@ -4,8 +4,8 @@
 	{   
 		"platicaId": 1,
     "hora": "09:00",
-    "descripcion": "delectus aut autem",
-    "ponente": "",
+    "descripcion": "esto es una prueba",
+    "ponente": "alejandro",
 	  "lugar":"sala 1" 
   },
   {
