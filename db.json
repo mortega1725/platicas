@@ -3,7 +3,7 @@
   
 {   
 	"platicaId": 1,
-	"titulo":"Platica dimensional"
+	"titulo":"Platica dimensional",
     	"hora": "09:00",
     	"descripcion": "esto es una prueba",
     	"ponente": "alejandro",
