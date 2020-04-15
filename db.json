@@ -1,12 +1,13 @@
 {
 	"platicas":[
   
-	{   
-		"platicaId": 1,
-    "hora": "09:00",
-    "descripcion": "esto es una prueba",
-    "ponente": "alejandro",
-	  "lugar":"sala 1" 
+{   
+	"platicaId": 1,
+	"titulo":"Platica dimensional"
+    	"hora": "09:00",
+    	"descripcion": "esto es una prueba",
+    	"ponente": "alejandro",
+	"lugar":"sala 1" 
   },
   {
     "platicaId": 2,
