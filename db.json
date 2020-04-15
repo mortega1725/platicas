@@ -33,54 +33,5 @@
     "descripcion": "laboriosam mollitia et enim quasi adipisci quia provhoraent illum",
     "ponente": "Prueba2",
     "lugar":"sala 1" 
-  },
-  {
-    "platicaId": 6,
-    "hora": "12:00",
-    "descripcion": "qui ullam ratione quibusdam voluptatem quia omnis",
-    "ponente": "Prueba2",
-    "lugar":"sala 1" 
-  },
-  {
-    "platicaId": 7,
-    "hora": "13:00",
-    "descripcion": "illo expedita consequatur quia in",
-    "ponente": "Prueba2",
-    "lugar":"sala 1" 
-  },
-  {
-    "platicaId": 8,
-    "hora": "14:00",
-    "descripcion": "quo adipisci enim quam ut ab",
-    "ponente": "Prueba1",
-    "lugar":"sala 1" 
-  },
-  {
-    "platicaId": 9,
-    "hora": "14:00",
-    "descripcion": "molestiae perspiciatis ipsa",
-    "ponente": "Prueba2",
-    "lugar":"sala 1" 
-  },
-  {
-    "platicaId": 10,
-    "hora": "15:00",
-    "descripcion": "illo est ratione doloremque quia maiores aut",
-    "ponente": "Prueba1",
-    "lugar":"sala 1" 
-  },
-  {
-    "platicaId": 11,
-    "hora": "16:00",
-    "descripcion": "vero rerum temporibus dolor",
-    "ponente": "Prueba1",
-    "lugar":"sala 1" 
-  },
-  {
-    "platicaId": 12,
-    "hora": "16:00",
-    "descripcion": "ipsa repellendus fugit nisi",
-    "ponente": "Prueba1",
-    "lugar":"sala 1" 
   }
 ]
