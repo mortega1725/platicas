@@ -3,8 +3,8 @@
 	  {
 	    "platicaId": 1,
 	    "titulo":"Desarrollo de Patrones y Metodos de Medicion",
-	    "fecha": "28 de Octubre",
-		  "hora": "09:00 AM - 10:00 AM",
+	    "fecha": "28 de Octubre 09:00 AM - 10:00 AM",
+		"hora": "09:00 - 10:00",
 	    "descripcion": "Produccion de un materialde referencia de agregados de concreto para comparaciones interlaboratorio",
 	    "ponente": "Adrian Reyes",
 		"puestoPonente":"Consultor",
@@ -15,6 +15,7 @@
 	    "platicaId": 4,
 	"titulo":"Energias Renovables III",
 		  "fecha": "28 de Octubre 11:00 AM - 12:00 PM",
+		  "hora": "11:00 - 12:00"
 	    "descripcion": "Implementacion del movimiento del aparato de placa caliente con guarda de 305MM(APCG-305)",
 	    "ponente": "Saul Garcia",
 	   "puestoPonente":"Consultor",
@@ -25,6 +26,7 @@
 	    "platicaId": 5,
 	"titulo":"Metrologia",
 		  "fecha": "28 de Octubre 11:00 AM - 12:00 PM",
+		  "hora": "11:00 - 12:00"
 	    "descripcion": "La metrología (del griego μέτρον [metron], 'medida', y el sufijo -logía, 'tratado', 'estudio', 'ciencia', y este del sufijo griego -λογία [loguía]) es la ciencia que estudia las mediciones de las magnitudes garantizando su normalización mediante la trazabilidad",
 	    "ponente": "Alejandro",
 	    "puestoPonente":"Consultor",
@@ -35,6 +37,7 @@
 	    "platicaId": 6,
 		"titulo":"Validacion de Metodos III",
 		  "fecha": "28 de Octubre 12:00 PM - 01:00 PM",
+		  "hora": "12:00 - 13:00"
 	    "descripcion": "Validacion del metodo de calibracion de amplificadores de carga",
 	    "ponente": "Guillermo Silva",
 	   "puestoPonente":"Consultor",
