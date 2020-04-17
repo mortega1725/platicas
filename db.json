@@ -14,8 +14,7 @@
 	  {
 	    "platicaId": 4,
 	"titulo":"Energias Renovables III",
-		  "fecha": "28 de Octubre",
-	    "hora": "11:00",
+		  "fecha": "28 de Octubre 11:00 AM - 12:00 PM",
 	    "descripcion": "Implementacion del movimiento del aparato de placa caliente con guarda de 305MM(APCG-305)",
 	    "ponente": "Saul Garcia",
 	   "puestoPonente":"Consultor",
@@ -24,11 +23,10 @@
 	  },
 	  {
 	    "platicaId": 5,
-	"titulo":"platica dimensional 5",
-		  "fecha": "28 de Octubre",
-	    "hora": "11:00",
-	    "descripcion": "laboriosam mollitia et enim quasi adipisci quia provhoraent illum",
-	    "ponente": "Prueba2",
+	"titulo":"Metrologia",
+		  "fecha": "28 de Octubre 11:00 AM - 12:00 PM",
+	    "descripcion": "La metrología (del griego μέτρον [metron], 'medida', y el sufijo -logía, 'tratado', 'estudio', 'ciencia', y este del sufijo griego -λογία [loguía]) es la ciencia que estudia las mediciones de las magnitudes garantizando su normalización mediante la trazabilidad",
+	    "ponente": "Alejandro",
 	    "puestoPonente":"Consultor",
 		  "empresa":"Cenam",
 		  "lugar":"Edificio T" 
@@ -36,8 +34,7 @@
 	  {
 	    "platicaId": 6,
 		"titulo":"Validacion de Metodos III",
-		  "fecha": "28 de Octubre",
-	 "hora": "12:00 PM - 01:00 PM",
+		  "fecha": "28 de Octubre 12:00 PM - 01:00 PM",
 	    "descripcion": "Validacion del metodo de calibracion de amplificadores de carga",
 	    "ponente": "Guillermo Silva",
 	   "puestoPonente":"Consultor",
@@ -47,8 +44,7 @@
 	  {
 	    "platicaId": 7,
 	"titulo":"Desarrollo patrones y Metodos de Medicion III ",
-		  "fecha": "28 de Octubre",
-	    "hora": "01:00 PM - 02:00 PM",
+		  "fecha": "28 de Octubre 01:00 PM - 02:00 PM",
 	    "descripcion": "Implementacion de un banco de toberas sonicas para la generacion de un flujo estable con fines de calibracion",
 	    "ponente": "Andrea Martinez",
 	    "puestoPonente":"Consultor",
@@ -58,8 +54,7 @@
 	  {
 	    "platicaId": 8,
 	"titulo":"Desarrollo de Patrones y Metodos de Medicion",
-		  "fecha": "28 de Octubre",
-	    "hora": "02:00 PM - 03:00 PM",
+		  "fecha": "28 de Octubre 02:00 PM - 03:00 PM",
 	    "descripcion": "Produccion de materiales de referencia en matrices de suelo y foliar para pruebas interlaboratorio",
 	    "ponente": "Edgar Martinez",
 	    "puestoPonente":"Consultor",
@@ -69,8 +64,7 @@
 	  {
 	    "platicaId": 9,
 	"titulo":"Inovacion I",
-		  "fecha": "28 de Octubre",
-	    "hora": "02:00 PM - 03:00 PM",
+		  "fecha": "28 de Octubre 02:00 PM - 03:00 PM",
 	    "descripcion": "Estimacion de la incertidumbre de los valores generados de humedad de un modelo tipo hibrido",
 	    "ponente": "Enrique Martines",
 	    "puestoPonente":"Consultor",
@@ -80,8 +74,7 @@
 	  {
 	    "platicaId": 10,
 	"titulo":"Cogeneracion y energias limpias III",
-		  "fecha": "28 de Octubre",
-	    "hora": "03:00 PM - 04:00 PM",
+		  "fecha": "28 de Octubre 03:00 PM - 04:00 PM",
 	    "descripcion": "Determinacion de calor util en una central de cogeneracion",
 	    "ponente": "Leonel Lira",
 	    "puestoPonente":"Consultor",
@@ -91,8 +84,7 @@
 	  {
 	    "platicaId": 11,
 	"titulo":"Trazabilidad III",
-		  "fecha": "28 de Octubre",
-	    "hora": "04:00 PM - 5:00 PM",
+		  "fecha": "28 de Octubre 04:00 PM - 5:00 PM",
 	    "descripcion": "Estudio de la densidad de pesas utilizando agua y pentadecano certificado como patron de densidad",
 	    "ponente": "Carlos Ortiz Cardona",
 	    "puestoPonente":"Consultor",
@@ -102,8 +94,7 @@
 	  {
 	    "platicaId": 12,
 	"titulo":"Validacion de Metodos III",
-		  "fecha": "28 de Octubre",
-	    "hora": "04:00 PM - 05:00 PM",
+		  "fecha": "28 de Octubre 04:00 PM - 05:00 PM",
 	    "descripcion": "Estudio de la densidad de pesas utilizando agua y pentadecano dertificado como patron de densidad",
 	    "ponente": "Jose Luis Rivera",
 	   "puestoPonente":"Consultor",
