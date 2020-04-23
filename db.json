@@ -1,5 +1,23 @@
 {
-	"platicas":[
+	"fechas": [
+	    {
+	      "id": 1,
+	      "titulo": "Infraestructura de la Calidad",
+		    "sutitulo":"28 de Octubre 2019",
+		    "url":"http://isoexpertos.com/wp-content/uploads/2016/01/azienda-slider.jpg"
+	    },
+	    {
+	      "id": 2,
+	      "titulo": "Digitalización",
+		    "sutitulo":"29 de Octubre 2019",
+		    "url":"http://cdn2.hubspot.net/hubfs/2604929/Stock%20images/digitalizacion%20de%20procesos%20Enzyme%20advising.jpeg"
+	    },
+	    {
+	      "titulo": "Industria .0",
+		    "sutitulo":"30 de Octubre 2019",
+		    "url":"http://lh3.googleusercontent.com/proxy/OK11azQV9wNTc_uPlPoLBNuC3xmcioSLiien_mmRkuFnavAOGMXOs890Xx367vAxI7AyTzPxbj446cxXc2o94LKMIa8_-fBx1hs73IFBZYbr_nmqxFPG94SB08kWxTf3uQ3ZIpm878aB9c6Tf90"
+	    }
+ 	 ],"platicas":[
 	  {
 	    "platicaId": 1,
 	    "titulo":"Desarrollo de Patrones y Metodos de Medicion",
