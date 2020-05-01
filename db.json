@@ -10,11 +10,11 @@
 	      "sala": "Sala de Juntas A",
 		    "detalles":"Entrando a la izquierda",
 		    "sala":["T1","Sala de Juntas B"]
-		},
+		},{
 		"id": 3,
 	      "sala": "T1",
 		    "detalles":"Entrando a la izquierda"
-		},
+		},{
 		"id": 4,
 	      "sala": "Sala de Juntas B",
 		    "detalles":"Entrando a la izquierda"
