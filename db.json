@@ -1,5 +1,37 @@
 {
-	"fechas": [
+	"edificios": [
+	    {
+	      "id": 1,
+	      "sala": "Sala Internacional",
+		"detalles":"aun costado del museo"
+	    },
+	    {
+	      "id": 2,
+	      "sala": "Sala de Juntas A",
+		    "detalles":"Entrando a la izquierda",
+		    "sala":["T1","Sala de Juntas B"]
+		},
+		"id": 3,
+	      "sala": "T1",
+		    "detalles":"Entrando a la izquierda"
+		},
+		"id": 4,
+	      "sala": "Sala de Juntas B",
+		    "detalles":"Entrando a la izquierda"
+		}
+ 	 ],
+	"edificios": [
+	    {
+	      "id": 1,
+	      "nombre": "Edificio A",
+		"sala":["Sala Internacional","Sala de Juntas A"]
+	    },
+	    {
+	      "id": 2,
+	      "nombre": "Edificio B",
+		    "Sala":["T1","Sala de Juntas B"]
+		}
+ 	 ],"fechas": [
 	    {
 	      "id": 1,
 	      "titulo": "Infraestructura de la Calidad",
