@@ -1,5 +1,56 @@
 {
-	
+	"ponentesE":[
+		{
+		"id": 1,
+	      "nombre": "Manuel Alejandro Ortega Diaz",
+		"empresa": "Universidad Politécnica de Santa Rosa Jáuregui",
+		"resumen":"Domínguez Servién y el alcalde Luis Bernardo Nava Guerrero entregaron el edificio Metra Center, en el que se invirtieron 32.7 millones de pesos, recursos que gestionó el mandatario estatal ante la federación. Domínguez Servién reiteró",
+		"platica":"AVANCES EN EL SISTEMA DE ESPECTRO",
+		"foto":"http://www.uniempresarial.edu.co/blog/wp-content/uploads/2017/11/tengo-el-perfil-para-estudiar-MBA.jpg.jpeg"
+		},
+		{
+			"id": 2,
+	      "nombre": "Albert Einstein",
+		"empresa": "Universidad Politécnica de Santa Rosa Jáuregui",
+		"resumen":"Es considerado el mayor científico del siglo pasado. No hay persona en la tierra que no sepa identificar a este físico judío alemán en fotografías. Fue premio Nobel de física en 1921. Su teoría de la relatividad es, probablemente, el mayor avance científico de los tiempos modernos, siendo por todos conocida su ecuación: E= mc^2.",
+		"platica":"Teoría Especial de la Relatividad",
+		"foto":"https://estaticos.muyinteresante.es/media/cache/400x300_thumb/uploads/images/article/55365e41066de9087b6a6007/einstein-frases.jpg"
+		},
+		{
+			"id": 3,
+	      "nombre": "Isaac Newton",
+		"empresa": "Universidad Politécnica de Santa Rosa Jáuregui",
+		"resumen":"Isaac Newton fue prácticamente de todo lo que se podía ser en su época. Físico, alquimista, astrónomo, matemático e inventor. Es muy conocida la historia que cuenta que elaboró su ley de la gravedad tras caerle una manzana en la cabeza mientras se echaba una siesta debajo de un árbol, aunque no sea más que un mito.",
+		"platica":"Las bases de la mecánica clásica",
+		"foto":"http://m.media-amazon.com/images/I/412tIIvagfL.jpg"
+		}
+		
+	],"ponentesN":[
+		"id": 1,
+	      "nombre": "Stephen Hawking",
+		"empresa": "Universidad Politécnica de Santa Rosa Jáuregui",
+		"resumen":"Stephen Hawking es, quizás, el científico más famoso después de Einstein. Fue un físico teórico conocido por sus teorías sobre el universo y la relatividad general. También conocido por padecer esclerosis lateral amiotrófica y ser probablemente la persona que más años ha llegado a sobrevivir con la enfermedad, su genialidad ayudó a visibilizar esta enfermedad",
+		"platica":"La Teoria del Todo",
+		"foto":"http://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+		},
+		{
+			"id": 2,
+	      "nombreN": "Marie Curie",
+		"empresaN": "Universidad Politécnica de Santa Rosa Jáuregui",
+		"resumenN":"Marie Curie, de origen polaco pero residente en Francia, es probablemente la mujer científica más conocida.",
+		"platicaN":"Descubrimiento del radio y del polonio",
+		"fotoN":"http://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+		},
+		{
+			"id": 3,
+	      "nombre": "Galileo Galilei",
+		"empresa": "La universidad de Padua",
+		"resumen":"",
+		"platica":"Le operazioni del compasso geometrico et militare",
+		"foto":"http://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+		}
+		
+	],
 	"edificios": [
 	    {
 	      "id": 1,
