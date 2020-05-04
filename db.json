@@ -28,11 +28,11 @@
 	],"ponentesN":[
 		{
 		"id": 1,
-	      "nombre": "Stephen Hawking",
-		"empresa": "Universidad Politécnica de Santa Rosa Jáuregui",
-		"resumen":"Stephen Hawking es, quizás, el científico más famoso después de Einstein. Fue un físico teórico conocido por sus teorías sobre el universo y la relatividad general. También conocido por padecer esclerosis lateral amiotrófica y ser probablemente la persona que más años ha llegado a sobrevivir con la enfermedad, su genialidad ayudó a visibilizar esta enfermedad",
-		"platica":"La Teoria del Todo",
-		"foto":"http://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+	      "nombreN": "Stephen Hawking",
+		"empresaN": "Universidad Politécnica de Santa Rosa Jáuregui",
+		"resumenN":"Stephen Hawking es, quizás, el científico más famoso después de Einstein. Fue un físico teórico conocido por sus teorías sobre el universo y la relatividad general. También conocido por padecer esclerosis lateral amiotrófica y ser probablemente la persona que más años ha llegado a sobrevivir con la enfermedad, su genialidad ayudó a visibilizar esta enfermedad",
+		"platicaN":"La Teoria del Todo",
+		"fotoN":"http://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
 		},
 		{
 			"id": 2,
@@ -44,11 +44,11 @@
 		},
 		{
 			"id": 3,
-	      "nombre": "Galileo Galilei",
-		"empresa": "La universidad de Padua",
-		"resumen":"",
-		"platica":"Le operazioni del compasso geometrico et militare",
-		"foto":"http://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+	      "nombreN": "Galileo Galilei",
+		"empresaN": "La universidad de Padua",
+		"resumenN":"",
+		"platicaN":"Le operazioni del compasso geometrico et militare",
+		"fotoN":"http://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
 		}
 		
 	],
