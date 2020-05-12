@@ -1,27 +1,5 @@
 {
-	"noticias":[
-	{
-	"id":1,
-	"titulo":"Aviso Importante",
-	"descripcion":"Por motivos de causa mayor se cancela la platica de Avances en el Sistema de Espectros"
-	},
-{
-	"id":2,
-	"titulo":"Aviso Importante",
-	"descripcion":"El auto bus sale a las 5:45 pm"
-	},
-{
-	"id":3,
-	"titulo":"Aviso",
-	"descripcion":"La comida sera a las 2 en el jardin"
-	},
-{
-	"id":4,
-	"titulo":"Aviso",
-	"descripcion":"Esto es una prueba"
-	}
-
-	],
+	
 	"ponentesE":[
 		{
 		"id": 1,
